@@ -1,0 +1,10 @@
+Desafios:
+01 - Pagina de sucesso (js no front-end):
+  - Mostrar página de sucesso do proffy
+  - Aguardar 2 segundos na página e redirecionar para a lista dos proffys com filtro
+    - use setTimeOut para aguardar os 2 segundos 
+    - logo após, location.href = ""
+
+02 - Correção de bugs:
+  - Não permitir o usuário colocar um novo campo de dia e horário, se o dia e hora estiverem vazios
+  - Funcionalidade de deletar um campo de dia e hora
